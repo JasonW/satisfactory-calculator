@@ -805,8 +805,8 @@
             "category": "crafting2",
             "time": 10,
             "ingredients": [
-                ["iron-rod", 3],
-                ["screw", 22]
+                ["iron-rod", 5],
+                ["screw", 25]
             ],
             "product": ["rotor", 1]
         },
